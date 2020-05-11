@@ -1,12 +1,12 @@
-# dan  
+# Robot Gladiators  
 
 ## Badges
 
-![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 ## Description
 
-a
+A computer game where the user fights computer robot gladiators.
 
 ## Table of Contents
 * [Badges](#badges)
@@ -20,26 +20,26 @@ a
 
 ## Installation
 
-b
+Open in browser and follow prompts.
 
 ## Usage 
 
-c
+Designed for entertainment.
 
 ## License
 
-GNU License
+Attribution License
 
 ## Contributing
 
-d
+Dan Lyons and Trilogy Education
 
 ## Tests
 
-e
+Enjoy!
 
 ## Questions
 
-[User Git Hub Link](https://github.com/a/  "Git Hub Link")
+[User Git Hub Link](https://github.com/dancl6/  "Git Hub Link")
 
-User Email: d
+User Email: danielclyons@yahoo.com
